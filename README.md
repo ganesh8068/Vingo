@@ -2,6 +2,13 @@
 
 A full-stack food delivery application built with React, Node.js, and MongoDB that connects customers with local restaurants and delivery partners.
 
+<img width="1760" height="990" alt="Screenshot 2025-11-05 010800" src="https://github.com/user-attachments/assets/e14d2c97-685c-4417-a338-dbd3741a2408" />
+<img width="1760" height="990" alt="Screenshot 2025-11-05 005833" src="https://github.com/user-attachments/assets/9047f024-32ff-4f35-967f-263002dc969d" />
+<img width="1760" height="990" alt="Screenshot 2025-11-05 010541" src="https://github.com/user-attachments/assets/ffdb5116-4346-4767-9973-3811bfac5f59" />
+<img width="1760" height="990" alt="Screenshot 2025-11-05 010643" src="https://github.com/user-attachments/assets/69256780-182b-45c4-b315-d132063c125b" />
+<img width="1760" height="990" alt="Screenshot 2025-11-05 010744" src="https://github.com/user-attachments/assets/a3cf6e59-137b-49b5-8b71-69f3e56c2671" />
+
+
 ## Features
 
 - **User Authentication**
